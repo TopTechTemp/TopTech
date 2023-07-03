@@ -13,6 +13,16 @@ function _productItemInit() {
         clone.remove();
         return height + 10;
     }
+    function getCoords(el) {
+        const b = el.getBoundingClientRect();
+
+        return {
+            top: b.top + window.scrollY,
+            left: b.left + window.scrollX,
+            bottom: b.bottom + window.scrollY,
+            right: b.right + window.scrollX,
+        };
+    }
 
     class ProductSpoiler {
         constructor(node) {
@@ -63,7 +73,22 @@ function _productItemInit() {
             this.scaleFill = qs(this.rootElem, ".product-score-item__scale-fill");
             this.isPie = Boolean(qs(this.rootElem, ".product-estimate-pie"));
 
-            this.setClass();
+            defineSet = defineSet.bind(this);
+            setTimeout(defineSet, 0);
+            if (!this.isClassnamesSet) window.addEventListener("scroll", defineSet);
+
+            function defineSet() {
+                const windowHeight = document.documentElement.clientHeight || window.innerHeight;
+                const coords = getCoords(this.rootElem);
+                const elHeight = this.rootElem.offsetHeight;
+                const elHeightHalf = elHeight / 2;
+                const isOnScreen = window.scrollY + windowHeight >= coords.bottom - elHeightHalf
+                    && window.scrollY <= coords.top + elHeightHalf;
+                if (isOnScreen) {
+                    this.setClass();
+                    window.removeEventListener("scroll", defineSet);
+                }
+            }
         }
         setClass() {
             let data = productScoresData.find(obj => obj.score === this.score);
