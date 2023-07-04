@@ -1,1 +1,153 @@
+<<<<<<< Updated upstream
 @font-face{font-family:Manrope;font-display:swap;src:url(../fonts/Manrope/Manrope-Light.eot);src:url(../fonts/Manrope/Manrope-Light.eot?#iefix) format("embedded-opentype"),url(../fonts/Manrope/Manrope-Light.woff2) format("woff2"),url(../fonts/Manrope/Manrope-Light.woff) format("woff"),url(../fonts/Manrope/Manrope-Light.ttf) format("truetype");font-weight:300;font-style:normal}@font-face{font-family:Manrope;font-display:swap;src:url(../fonts/Manrope/Manrope-Regular.eot);src:url(../fonts/Manrope/Manrope-Regular.eot?#iefix) format("embedded-opentype"),url(../fonts/Manrope/Manrope-Regular.woff2) format("woff2"),url(../fonts/Manrope/Manrope-Regular.woff) format("woff"),url(../fonts/Manrope/Manrope-Regular.ttf) format("truetype");font-weight:400;font-style:normal}@font-face{font-family:Manrope;font-display:swap;src:url(../fonts/Manrope/Manrope-Medium.eot);src:url(../fonts/Manrope/Manrope-Medium.eot?#iefix) format("embedded-opentype"),url(../fonts/Manrope/Manrope-Medium.woff2) format("woff2"),url(../fonts/Manrope/Manrope-Medium.woff) format("woff"),url(../fonts/Manrope/Manrope-Medium.ttf) format("truetype");font-weight:500;font-style:normal}@font-face{font-family:Manrope;font-display:swap;src:url(../fonts/Manrope/Manrope-SemiBold.eot);src:url(../fonts/Manrope/Manrope-SemiBold.eot?#iefix) format("embedded-opentype"),url(../fonts/Manrope/Manrope-SemiBold.woff2) format("woff2"),url(../fonts/Manrope/Manrope-SemiBold.woff) format("woff"),url(../fonts/Manrope/Manrope-SemiBold.ttf) format("truetype");font-weight:600;font-style:normal}@font-face{font-family:Manrope;font-display:swap;src:url(../fonts/Manrope/Manrope-Bold.eot);src:url(../fonts/Manrope/Manrope-Bold.eot?#iefix) format("embedded-opentype"),url(../fonts/Manrope/Manrope-Bold.woff2) format("woff2"),url(../fonts/Manrope/Manrope-Bold.woff) format("woff"),url(../fonts/Manrope/Manrope-Bold.ttf) format("truetype");font-weight:700;font-style:normal}@font-face{font-family:Oswald;font-display:swap;src:url(../fonts/Oswald/Oswald-Medium.eot);src:url(../fonts/Oswald/Oswald-Medium.eot?#iefix) format("embedded-opentype"),url(../fonts/Oswald/Oswald-Medium.woff2) format("woff2"),url(../fonts/Oswald/Oswald-Medium.woff) format("woff"),url(../fonts/Oswald/Oswald-Medium.ttf) format("truetype");font-weight:500;font-style:normal}@font-face{font-family:Oswald;font-display:swap;src:url(../fonts/Oswald/Oswald-SemiBold.eot);src:url(../fonts/Oswald/Oswald-SemiBold.eot?#iefix) format("embedded-opentype"),url(../fonts/Oswald/Oswald-SemiBold.woff2) format("woff2"),url(../fonts/Oswald/Oswald-SemiBold.woff) format("woff"),url(../fonts/Oswald/Oswald-SemiBold.ttf) format("truetype");font-weight:700;font-style:normal}@font-face{font-family:prod-item-icons;src:url(../fonts/ProdItemIcons/prod-item-icons.eot?1jtw0v);src:url(../fonts/ProdItemIcons/prod-item-icons.eot?1jtw0v#iefix) format('embedded-opentype'),url(../fonts/ProdItemIcons/prod-item-icons.ttf?1jtw0v) format('truetype'),url(../fonts/ProdItemIcons/prod-item-icons.woff?1jtw0v) format('woff'),url(../fonts/ProdItemIcons/prod-item-icons.svg?1jtw0v#prod-item-icons) format('svg');font-weight:400;font-style:normal;font-display:block}[class*="_prod_item_icon-"]::before,[class^="_prod_item_icon-"]::before{font-family:prod-item-icons!important;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;position:relative}._prod_item_icon-arrow-right::before{content:"\e900"}._prod_item_icon-yt::before{content:"\e901"}._prod_item_icon-windows::before{content:"\e902"}._prod_item_icon-star::before{content:"\e903"}._prod_item_icon-size::before{content:"\e904"}._prod_item_icon-screen::before{content:"\e905"}._prod_item_icon-ram::before{content:"\e906"}._prod_item_icon-plus-minus::before{content:"\e907"}._prod_item_icon-memorycard::before{content:"\e908"}._prod_item_icon-hdmi::before{content:"\e909"}._prod_item_icon-gpu::before{content:"\e90a"}._prod_item_icon-gears::before{content:"\e90b"}._prod_item_icon-estimates::before{content:"\e90c"}._prod_item_icon-cpu::before{content:"\e90d"}._prod_item_icon-cart::before{content:"\e90e"}._prod_item_icon-battery::before{content:"\e90f"}
+=======
+@font-face {
+    font-family: Manrope;
+    font-display: swap;
+    src: url(https://toptechtemp.github.io/TopTech/fonts/Manrope/Manrope-Light.eot);
+    src: url(https://toptechtemp.github.io/TopTech/fonts/Manrope/Manrope-Light.eot?#iefix) format("embedded-opentype"), url(https://toptechtemp.github.io/TopTech/fonts/Manrope/Manrope-Light.woff2) format("woff2"), url(https://toptechtemp.github.io/TopTech/fonts/Manrope/Manrope-Light.woff) format("woff"), url(https://toptechtemp.github.io/TopTech/fonts/Manrope/Manrope-Light.ttf) format("truetype");
+    font-weight: 300;
+    font-style: normal
+}
+
+@font-face {
+    font-family: Manrope;
+    font-display: swap;
+    src: url(https://toptechtemp.github.io/TopTech/fonts/Manrope/Manrope-Regular.eot);
+    src: url(https://toptechtemp.github.io/TopTech/fonts/Manrope/Manrope-Regular.eot?#iefix) format("embedded-opentype"), url(https://toptechtemp.github.io/TopTech/fonts/Manrope/Manrope-Regular.woff2) format("woff2"), url(https://toptechtemp.github.io/TopTech/fonts/Manrope/Manrope-Regular.woff) format("woff"), url(https://toptechtemp.github.io/TopTech/fonts/Manrope/Manrope-Regular.ttf) format("truetype");
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: Manrope;
+    font-display: swap;
+    src: url(https://toptechtemp.github.io/TopTech/fonts/Manrope/Manrope-Medium.eot);
+    src: url(https://toptechtemp.github.io/TopTech/fonts/Manrope/Manrope-Medium.eot?#iefix) format("embedded-opentype"), url(https://toptechtemp.github.io/TopTech/fonts/Manrope/Manrope-Medium.woff2) format("woff2"), url(https://toptechtemp.github.io/TopTech/fonts/Manrope/Manrope-Medium.woff) format("woff"), url(https://toptechtemp.github.io/TopTech/fonts/Manrope/Manrope-Medium.ttf) format("truetype");
+    font-weight: 500;
+    font-style: normal
+}
+
+@font-face {
+    font-family: Manrope;
+    font-display: swap;
+    src: url(https://toptechtemp.github.io/TopTech/fonts/Manrope/Manrope-SemiBold.eot);
+    src: url(https://toptechtemp.github.io/TopTech/fonts/Manrope/Manrope-SemiBold.eot?#iefix) format("embedded-opentype"), url(https://toptechtemp.github.io/TopTech/fonts/Manrope/Manrope-SemiBold.woff2) format("woff2"), url(https://toptechtemp.github.io/TopTech/fonts/Manrope/Manrope-SemiBold.woff) format("woff"), url(https://toptechtemp.github.io/TopTech/fonts/Manrope/Manrope-SemiBold.ttf) format("truetype");
+    font-weight: 600;
+    font-style: normal
+}
+
+@font-face {
+    font-family: Manrope;
+    font-display: swap;
+    src: url(https://toptechtemp.github.io/TopTech/fonts/Manrope/Manrope-Bold.eot);
+    src: url(https://toptechtemp.github.io/TopTech/fonts/Manrope/Manrope-Bold.eot?#iefix) format("embedded-opentype"), url(https://toptechtemp.github.io/TopTech/fonts/Manrope/Manrope-Bold.woff2) format("woff2"), url(https://toptechtemp.github.io/TopTech/fonts/Manrope/Manrope-Bold.woff) format("woff"), url(https://toptechtemp.github.io/TopTech/fonts/Manrope/Manrope-Bold.ttf) format("truetype");
+    font-weight: 700;
+    font-style: normal
+}
+
+@font-face {
+    font-family: Oswald;
+    font-display: swap;
+    src: url(https://toptechtemp.github.io/TopTech/fonts/Oswald/Oswald-Medium.eot);
+    src: url(https://toptechtemp.github.io/TopTech/fonts/Oswald/Oswald-Medium.eot?#iefix) format("embedded-opentype"), url(https://toptechtemp.github.io/TopTech/fonts/Oswald/Oswald-Medium.woff2) format("woff2"), url(https://toptechtemp.github.io/TopTech/fonts/Oswald/Oswald-Medium.woff) format("woff"), url(https://toptechtemp.github.io/TopTech/fonts/Oswald/Oswald-Medium.ttf) format("truetype");
+    font-weight: 500;
+    font-style: normal
+}
+
+@font-face {
+    font-family: Oswald;
+    font-display: swap;
+    src: url(https://toptechtemp.github.io/TopTech/fonts/Oswald/Oswald-SemiBold.eot);
+    src: url(https://toptechtemp.github.io/TopTech/fonts/Oswald/Oswald-SemiBold.eot?#iefix) format("embedded-opentype"), url(https://toptechtemp.github.io/TopTech/fonts/Oswald/Oswald-SemiBold.woff2) format("woff2"), url(https://toptechtemp.github.io/TopTech/fonts/Oswald/Oswald-SemiBold.woff) format("woff"), url(https://toptechtemp.github.io/TopTech/fonts/Oswald/Oswald-SemiBold.ttf) format("truetype");
+    font-weight: 700;
+    font-style: normal
+}
+
+@font-face {
+    font-family: prod-item-icons;
+    src: url(https://toptechtemp.github.io/TopTech/fonts/ProdItemIcons/prod-item-icons.eot?1jtw0v);
+    src: url(https://toptechtemp.github.io/TopTech/fonts/ProdItemIcons/prod-item-icons.eot?1jtw0v#iefix) format('embedded-opentype'), url(https://toptechtemp.github.io/TopTech/fonts/ProdItemIcons/prod-item-icons.ttf?1jtw0v) format('truetype'), url(https://toptechtemp.github.io/TopTech/fonts/ProdItemIcons/prod-item-icons.woff?1jtw0v) format('woff'), url(https://toptechtemp.github.io/TopTech/fonts/ProdItemIcons/prod-item-icons.svg?1jtw0v#prod-item-icons) format('svg');
+    font-weight: 400;
+    font-style: normal;
+    font-display: block
+}
+
+[class*="_prod_item_icon-"]::before,
+[class^="_prod_item_icon-"]::before {
+    font-family: prod-item-icons !important;
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    position: relative;
+    top: -5px
+}
+
+._prod_item_icon-arrow-right::before {
+    content: "\e900"
+}
+
+._prod_item_icon-yt::before {
+    content: "\e901"
+}
+
+._prod_item_icon-windows::before {
+    content: "\e902"
+}
+
+._prod_item_icon-star::before {
+    content: "\e903"
+}
+
+._prod_item_icon-size::before {
+    content: "\e904"
+}
+
+._prod_item_icon-screen::before {
+    content: "\e905"
+}
+
+._prod_item_icon-ram::before {
+    content: "\e906"
+}
+
+._prod_item_icon-plus-minus::before {
+    content: "\e907"
+}
+
+._prod_item_icon-memorycard::before {
+    content: "\e908"
+}
+
+._prod_item_icon-hdmi::before {
+    content: "\e909"
+}
+
+._prod_item_icon-gpu::before {
+    content: "\e90a"
+}
+
+._prod_item_icon-gears::before {
+    content: "\e90b"
+}
+
+._prod_item_icon-estimates::before {
+    content: "\e90c"
+}
+
+._prod_item_icon-cpu::before {
+    content: "\e90d"
+}
+
+._prod_item_icon-cart::before {
+    content: "\e90e"
+}
+
+._prod_item_icon-battery::before {
+    content: "\e90f"
+}
+>>>>>>> Stashed changes
